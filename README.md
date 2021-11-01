@@ -3,11 +3,6 @@
 Note: **please view the notebook or HTML file rather than the PDF file. The PDF file does not include the visualisations.**
 
 
-## Assignments
-
-* [The dataset for your group](https://docs.google.com/spreadsheets/d/1gO_0ejgrW17XBHR7qfp6Qoo7Ai_XFlLIZakb0gIMmQE/edit?usp=sharing).
-* [The project assignment for lab 1.](https://docs.google.com/document/d/1Ns0i4jKP-Dm0dcBRfOZFG46ptjrHarDIje-lg2XdaFE/edit?usp=sharing)
-
 ## Getting started
 
 ### Lab 1

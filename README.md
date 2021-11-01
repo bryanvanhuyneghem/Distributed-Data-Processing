@@ -2,7 +2,6 @@
 
 Note: **please view the notebook or HTML file rather than the PDF file. The PDF file does not include the visualisations.**
 
-This repository contains the GDV project submissions for the following students: Bryan Van Huyneghem, Anoek Strumane.
 
 ## Assignments
 
@@ -32,9 +31,3 @@ This repository contains the GDV project submissions for the following students:
    This will create a container to develop in.
 1. Wait until the container is setup. This can take a few minutes because the container needs to be pulled and built. You can check the progress by clicking "Starting Dev Container (show log)" in the notification on the bottom right of VSCode.
 1. When the container is setup, open `lab1-project.ipynb` and start coding!
-
-## Copyright
-
-You can use and modify this lab as part of your education, but you are not allowed to share this lab, your modifications, and your solutions. Please contact the teaching staff if you want to use (part of) this lab for teaching other courses.
-
-Copyright © teaching staff of the course "Gedistribueerde gegevensverwerking" (E761040) at the Faculty of Engineering and Architecture - Ghent University.

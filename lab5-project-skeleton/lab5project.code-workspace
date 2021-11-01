@@ -1,0 +1,15 @@
+
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "lab5project"
+		}
+	],
+	"settings": {
+		"files.eol": "\n",
+		"remote.autoForwardPorts": false,
+		"files.insertFinalNewline": true,
+		"files.trimFinalNewlines": true
+	}
+}

@@ -1,0 +1,8 @@
+version: "2.0"
+module:
+  meta:
+    type: remote
+  spec:
+    functions:
+    ingresses:
+    egresses:

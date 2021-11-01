@@ -1,0 +1,19 @@
+.ipynb_checkpoints/
+*.pyc
+training_set.csv
+*.zip
+*.tar.xz
+.vscode
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.gz
+*.csv
+
+# We currently don't want the devcontainer stuff
+.devcontainer/
+csse_covid_19_daily_reports/
+lab3-project/checkpoints-cleanup/
+lab4-project/checkpoints-cleanup/

@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+package <YOUR PACKAGE NAME HERE>; // This name has to be used in the module.yaml file in the typeUrl setting for ingress.
+
+
+// Write all your protobuf structures here

@@ -1,0 +1,7 @@
+apache-flink-statefun==2.2.1
+flask==1.1.1
+gunicorn==20.0.4
+ipykernel
+protobuf==3.14.0
+jupyter
+kafka-python==2.0.2

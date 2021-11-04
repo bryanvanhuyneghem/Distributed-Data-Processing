@@ -1,18 +1,16 @@
-# GDV Project group-8
+# Distributed Data Processing
 
 Note: **please view the notebook or HTML file rather than the PDF file. The PDF file does not include the visualisations.**
 
 
 ## Getting started
 
-### Lab 1
-
 > *Note: Please follow the [installation docs](https://github.ugent.be/GDV/docs) for the GDV course first.*
 
 1. Clone this repository to your computer using git.
 
    ```bash
-   git clone https://github.ugent.be/gdv-project-2020/gdv-project-2020-group-8.git
+   git clone https://github.com/bryanvanhuyneghem/Distributed-Data-Processing.git
    ```
 
 1. Download your [assigned datasets](https://docs.google.com/spreadsheets/d/1gO_0ejgrW17XBHR7qfp6Qoo7Ai_XFlLIZakb0gIMmQE/edit?usp=sharing) to this folder of the repository.
